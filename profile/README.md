@@ -1,3 +1,4 @@
+<i>
 <p align="center">
   <img src="https://raw.githubusercontent.com/marcochollatech/.github/main/assets/banner.png" alt="Marcocholla Technologies Banner" width="100%" />
 </p>
@@ -11,10 +12,9 @@ Marcocholla Technologies
 </p>
 
 <p align="center">
-
 Modern Websites • Mobile Apps • Business Software • APIs • Cloud Solutions
-
 </p>
+
 
 <p align="center">
 <a href="https://marcocholla.co.ke">
@@ -110,7 +110,7 @@ Whether you're a startup launching your first product or an established business
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,go,python,php"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,bun,go,python,dart,rust,java,php"/>
 
 </p>
 
@@ -118,7 +118,7 @@ Whether you're a startup launching your first product or an established business
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=flutter,react"/>
+<img src="https://skillicons.dev/icons?i=flutter,react,kotlin,swift"/>
 
 </p>
 
@@ -126,7 +126,7 @@ Whether you're a startup launching your first product or an established business
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,firebase"/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,firebase,supabase"/>
 
 </p>
 
@@ -135,6 +135,14 @@ Whether you're a startup launching your first product or an established business
 <p>
 
 <img src="https://skillicons.dev/icons?i=docker,linux,ubuntu,nginx,githubactions,git"/>
+
+</p>
+
+## Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=linux,windows,vscode,postman,webstorm"/>
 
 </p>
 
